@@ -266,12 +266,14 @@ Data modeling, fact and dimension tables, transformation models and data testing
 
 
 <div align="center">
-  <img
-    src="https://github-profile-trophy-liard-delta.vercel.app/?username=shariq-13&theme=tokyonight&no-frame=true&no-bg=true&column=7"
-    alt="GitHub Trophies"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/shariq-13/shariq-13/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shariq-13/shariq-13/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shariq-13/shariq-13/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/shariq-13/shariq-13/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
 ---
 
