@@ -173,4 +173,161 @@ flowchart TD
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shariq-13&repo=Serverless_ETL_pipeline&theme=tokyonight&hide_border=true&bg_color=080F1C&title_color=22D3EE" width="100%"/>
 </a>
 
-`AWS` `Python` `Lambda` `S3` `SNS
+`AWS` `Python` `Lambda` `S3` `SNS`
+
+Serverless processing, workflow orchestration, conditional execution and error notifications.
+
+**[VIEW PROJECT →](https://github.com/shariq-13/Serverless_ETL_pipeline)**
+
+</td>
+<td width="50%" valign="top">
+
+### ❄️ SPARKIFY DATA WAREHOUSE
+
+<a href="https://github.com/shariq-13/Sparkify-data-warehousing">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shariq-13&repo=Sparkify-data-warehousing&theme=tokyonight&hide_border=true&bg_color=080F1C&title_color=22D3EE" width="100%"/>
+</a>
+
+`Snowflake` `dbt` `SQL`
+
+Data modeling, fact and dimension tables, transformation models and data testing.
+
+**[VIEW PROJECT →](https://github.com/shariq-13/Sparkify-data-warehousing)**
+
+</td>
+</tr>
+</table>
+
+### 🌫️ SMART CITY AIR QUALITY PIPELINE
+
+`Python` `Snowflake` `SQL` `IoT`
+
+- Sensor data ingestion from multiple cities.
+- Time-series data management.
+- Snowflake Bronze layer architecture.
+
+### 🍔 ZOMATO AI DATA ENGINEERING
+
+`Python` `Snowflake` `Gemini API`
+
+- Customer review extraction.
+- AI-based sentiment classification.
+- Enrichment and storage of processed reviews.
+
+### 🏅 TOKYO OLYMPICS AZURE DATA ENGINEERING
+
+`Microsoft Azure` `Azure Storage` `SQL`
+
+- Cloud data ingestion.
+- Data transformation.
+- Analytical dataset preparation.
+
+---
+
+## 📊 GITHUB COMMAND CENTER
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shariq-13&show_icons=true&hide_border=true&theme=tokyonight&bg_color=080F1C&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shariq-13&theme=tokyonight&hide_border=true&background=080F1C&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE" />
+
+<br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariq-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=080F1C&title_color=22D3EE" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariq-13&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariq-13&bg_color=080F1C&color=22D3EE&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 🐍 WATCH MY CONTRIBUTIONS COME ALIVE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/shariq-13/shariq-13/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+
+</div>
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shariq-13&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" />
+
+</div>
+
+---
+
+## 🎯 ENGINEERING ROADMAP
+
+```mermaid
+flowchart TD
+    A["🐍 Python & SQL"] --> B["🔄 ETL / ELT"]
+    B --> C["❄️ Snowflake & dbt"]
+    C --> D["⚙️ Airflow"]
+    D --> E["☁️ AWS & Azure"]
+    E --> F["🔥 Apache Spark"]
+    F --> G["📊 Microsoft Fabric"]
+    G --> H["🏗️ Production Data Platforms"]
+
+    style A fill:#082F49,stroke:#22D3EE,color:#fff
+    style B fill:#0C4A6E,stroke:#38BDF8,color:#fff
+    style C fill:#164E63,stroke:#22D3EE,color:#fff
+    style D fill:#164E63,stroke:#22D3EE,color:#fff
+    style E fill:#0C4A6E,stroke:#38BDF8,color:#fff
+    style F fill:#164E63,stroke:#22D3EE,color:#fff
+    style G fill:#134E4A,stroke:#2DD4BF,color:#fff
+    style H fill:#14532D,stroke:#4ADE80,color:#fff
+```
+
+**Currently focusing on:**
+
+- Microsoft Fabric & DP-700.
+- Advanced Snowflake SQL.
+- dbt and data transformation.
+- Apache Airflow.
+- AWS and Azure cloud architecture.
+- Apache Spark and distributed processing.
+- Terraform and Infrastructure as Code.
+
+---
+
+## 🤝 LET'S BUILD SOMETHING GREAT
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Open+to+Cloud+Data+Engineering+Opportunities;Let's+Connect+and+Share+Knowledge;Let's+Build+the+Future+of+Data!" />
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://github.com/shariq-13">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+### ☁️ DATA IS THE FOUNDATION. ENGINEERING IS THE POWER.
+
+**Turning Raw Data Into Reliable Insights.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:0369A1,100:020617&height=150&section=footer&animation=twinkling" />
+
+</div>
