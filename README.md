@@ -244,11 +244,15 @@ Data modeling, fact and dimension tables, transformation models and data testing
 
 ## 📈 CONTRIBUTION ACTIVITY
 
+
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shariq-13&bg_color=080F1C&color=22D3EE&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%" />
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shariq-13&theme=react-dark&hide_border=true&area=true"
+    width="100%"
+    alt="Shariq's GitHub Activity Graph"
+  />
 </div>
+
 
 ---
 
