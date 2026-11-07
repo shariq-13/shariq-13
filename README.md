@@ -243,9 +243,16 @@ Data modeling, fact and dimension tables, transformation models and data testing
 ---
 
 
-## 📊 My GitHub Activity
+<h2 align="center">📊 GitHub Contribution Activity</h2>
 
-[![Shariq's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shariq-13&theme=react-dark)](https://github.com/shariq-13)
+<div align="center">
+  <img
+    src="https://ghchart.rshah.org/22D3EE/shariq-13"
+    alt="Shariq's GitHub Contribution Chart"
+    width="100%"
+  />
+</div>
+
 
 
 
