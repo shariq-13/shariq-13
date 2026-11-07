@@ -227,14 +227,12 @@ Data modeling, fact and dimension tables, transformation models and data testing
 ## 📊 GITHUB COMMAND CENTER
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shariq-13&show_icons=true&hide_border=true&theme=tokyonight&bg_color=080F1C&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" />
+ 
+13&show_icons=true&hide_border=true&theme=tokyonight&bg_color=080F1C&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1" />
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=shariq-13&theme=tokyonight&hide_border=true&background=080F1C&ring=22D3EE&fire=38BDF8&currStreakLabel=22D3EE" />
 
 <br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shariq-13&layout=compact&theme=tokyonight&hide_border=true&bg_color=080F1C&title_color=22D3EE" />
 
 <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariq-13&theme=tokyonight" />
 
