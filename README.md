@@ -1,32 +1,28 @@
  <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:082F49,65:0369A1,100:06B6D4&height=230&section=header&text=SHARIQ%20AHMAD&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=CLOUD%20DATA%20ENGINEER%20%7C%20CLOUD%20%26%20DATA%20PLATFORMS&descSize=16&descAlignY=58&animation=fadeIn" />
+<a href="https://github.com/shariq-13">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,30:0C4A6E,60:0369A1,100:06B6D4&text=SHARIQ%20AHMAD&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=CLOUD%20DATA%20ENGINEER%20%7C%20BUILDING%20THE%20DATA%20FUTURE&descSize=15&descAlignY=58&animation=twinkling&stroke=22D3EE&strokeWidth=1" />
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=21&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&lines=Welcome+to+my+Data+Engineering+World+%F0%9F%91%8B;Building+Scalable+Cloud+Data+Pipelines+%E2%98%81%EF%B8%8F;AWS+%7C+Azure+%7C+Snowflake+%7C+Microsoft+Fabric;Python+%7C+SQL+%7C+dbt+%7C+Apache+Airflow;From+Raw+Data+to+Business+Insights+%F0%9F%93%8A" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=23&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=HEY%2C+I'M+SHARIQ+AHMAD+%F0%9F%91%8B;CLOUD+DATA+ENGINEER+%E2%98%81%EF%B8%8F;AWS+%7C+AZURE+%7C+SNOWFLAKE+%7C+FABRIC;PYTHON+%7C+SQL+%7C+DBT+%7C+AIRFLOW;BUILDING+END-TO-END+DATA+PIPELINES+%F0%9F%9A%80;TURNING+DATA+INTO+INSIGHTS+%F0%9F%93%8A" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/CLOUD-AWS%20%7C%20AZURE-0EA5E9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DATA-SNOWFLAKE%20%7C%20FABRIC-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ENGINEERING-ETL%20%7C%20ELT-0284C7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/☁️_CLOUD_ENGINEERING-0B1220?style=for-the-badge&labelColor=0B1220&color=0891B2" />
+<img src="https://img.shields.io/badge/🔄_DATA_PIPELINES-0B1220?style=for-the-badge&color=0369A1" />
+<img src="https://img.shields.io/badge/📊_DATA_ANALYTICS-0B1220?style=for-the-badge&color=0E7490" />
 
 <br/><br/>
 
-<a href="https://github.com/shariq-13">
-<img src="https://komarev.com/ghpvc/?username=shariq-13&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
-</a>
-<a href="https://github.com/shariq-13?tab=followers">
-<img src="https://img.shields.io/github/followers/shariq-13?style=for-the-badge&logo=github&color=0891B2&label=FOLLOWERS" />
-</a>
-<a href="https://github.com/shariq-13?tab=repositories">
-<img src="https://img.shields.io/github/stars/shariq-13?style=for-the-badge&logo=github&color=0891B2&label=STARS" />
-</a>
+<a href="https://github.com/shariq-13?tab=followers"><img src="https://img.shields.io/github/followers/shariq-13?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2" /></a>
+<a href="https://github.com/shariq-13?tab=repositories"><img src="https://img.shields.io/github/stars/shariq-13?style=for-the-badge&logo=github&label=STARS&color=0891B2" /></a>
+<img src="https://komarev.com/ghpvc/?username=shariq-13&style=for-the-badge&color=0891B2&label=VISITORS" />
 
 <br/><br/>
 
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/shariq-13"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/shariq-13"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -34,127 +30,136 @@
 
 <div align="center">
 
-## ◈ THE ENGINEER BEHIND THE DATA
+## ⚡ THE DATA ENGINEERING ZONE
 
-<img src="https://skillicons.dev/icons?i=python,aws,azure,snowflake,postgres,git&theme=dark" />
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="400" alt="Digital technology animation"/>
 
-</div>
-
-### 👨‍💻 About Me
-
-I'm **Shariq Ahmad**, a Cloud Data Engineer focused on building end-to-end data engineering solutions and exploring modern cloud data platforms.
-
-I enjoy designing data pipelines, developing ETL/ELT workflows, transforming datasets, and building cloud-based analytical solutions.
-
-- ☁️ Cloud platforms: AWS and Microsoft Azure.
-- ❄️ Data warehousing: Snowflake.
-- 🔄 Data transformation: Python, SQL and dbt.
-- ⚙️ Workflow orchestration: Apache Airflow and AWS Step Functions.
-- 🔥 Distributed processing: Apache Spark and PySpark.
-- 📊 Analytics: Microsoft Fabric and Power BI.
-- 🏗️ Infrastructure: Terraform and Linux.
-
-**My engineering philosophy:** Understand the data, design the architecture, automate the workflow, and build reliable solutions.
-
----
-
-## ◈ CLOUD DATA ENGINEERING ECOSYSTEM
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure,snowflake,python,postgres,mysql,git,github,linux,docker,terraform,vscode&perline=6&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge&logo=microsoftfabric&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+**I BUILD • I AUTOMATE • I TRANSFORM • I ENGINEER**
 
 </div>
 
-### Technology domains
+## 👨‍💻 WHO AM I?
 
-| Domain | Technologies |
-|---|---|
-| Cloud | AWS, Microsoft Azure |
-| Languages | Python, SQL, Bash |
-| Data Warehouse | Snowflake |
-| ETL / ELT | Python, SQL, dbt |
-| Processing | Apache Spark, PySpark |
-| Orchestration | Apache Airflow, Step Functions |
-| Storage | Amazon S3, Azure Storage |
-| Databases | PostgreSQL, MySQL |
-| Analytics | Microsoft Fabric, Power BI |
-| DevOps | Git, GitHub, Linux, Terraform |
+I'm **Shariq Ahmad**, a Cloud Data Engineer passionate about cloud technologies, modern data platforms, and scalable data engineering solutions.
 
----
+My focus is on designing end-to-end data pipelines that move data from different sources into reliable, analytics-ready platforms.
 
-## ◈ DATA ENGINEERING ARCHITECTURE
+```python
+class CloudDataEngineer:
 
-<div align="center">
+    def __init__(self):
+        self.name = "Shariq Ahmad"
+        self.role = "Cloud Data Engineer"
+        self.location = "Karachi, Pakistan 🇵🇰"
 
-### From data sources to business intelligence
+        self.cloud = ["AWS", "Azure"]
+        self.warehouse = ["Snowflake"]
+        self.languages = ["Python", "SQL"]
+        self.tools = [
+            "dbt",
+            "Apache Airflow",
+            "Apache Spark",
+            "Microsoft Fabric",
+            "Terraform"
+        ]
 
-</div>
+        self.current_focus = [
+            "Cloud Data Engineering",
+            "ETL / ELT Pipelines",
+            "Data Warehousing",
+            "Workflow Orchestration"
+        ]
 
-```mermaid
-flowchart TB
-    subgraph SOURCE["01 • DATA SOURCES"]
-        A1["REST APIs"]
-        A2["CSV / JSON"]
-        A3["Databases"]
-        A4["IoT Data"]
-    end
+    def engineer(self):
+        return "Turning Raw Data into Valuable Insights 🚀"
 
-    subgraph INGESTION["02 • INGESTION"]
-        B1["Python"]
-        B2["AWS Lambda"]
-        B3["Cloud Storage"]
-    end
 
-    subgraph TRANSFORMATION["03 • PROCESSING"]
-        C1["SQL"]
-        C2["dbt"]
-        C3["Apache Spark"]
-    end
-
-    subgraph WAREHOUSE["04 • DATA PLATFORM"]
-        D1["Snowflake"]
-        D2["Microsoft Fabric"]
-    end
-
-    subgraph ANALYTICS["05 • ANALYTICS"]
-        E1["Power BI"]
-        E2["SQL Analytics"]
-        E3["Business Insights"]
-    end
-
-    A1 & A2 & A3 & A4 --> B1
-    B1 --> B2 --> B3
-    B3 --> C1 & C2 & C3
-    C1 & C2 & C3 --> D1 & D2
-    D1 & D2 --> E1 & E2 --> E3
-
-    F["Apache Airflow / AWS Step Functions"]
-    F -. Orchestration .-> B1
-    F -. Orchestration .-> C2
-
-    style SOURCE fill:#082F49,stroke:#22D3EE,color:#fff
-    style INGESTION fill:#0C4A6E,stroke:#38BDF8,color:#fff
-    style TRANSFORMATION fill:#164E63,stroke:#22D3EE,color:#fff
-    style WAREHOUSE fill:#134E4A,stroke:#2DD4BF,color:#fff
-    style ANALYTICS fill:#14532D,stroke:#4ADE80,color:#fff
+me = CloudDataEngineer()
+print(me.engineer())
 ```
 
 ---
 
-## ◈ FEATURED PROJECT PORTFOLIO
+## 🌐 MY CLOUD & DATA TECHNOLOGY UNIVERSE
 
 <div align="center">
 
-### Building practical cloud data engineering solutions
+### ☁️ Cloud Platforms
+
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark&perline=6" />
+
+### 🐍 Programming & Query Languages
+
+<img src="https://skillicons.dev/icons?i=python,bash&theme=dark" />
+
+<img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+### ❄️ Data Warehousing & Processing
+
+<img src="https://skillicons.dev/icons?i=snowflake,postgres,mysql&theme=dark" />
+
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=for-the-badge&logo=microsoftfabric&logoColor=white" />
+
+### ⚙️ DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,docker,terraform,vscode&theme=dark" />
+
+### 📊 Business Intelligence
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+
+</div>
+
+---
+
+## 🔬 DATA PIPELINE LAB
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:06B6D4,50:0EA5E9,100:22D3EE" width="100%" />
+
+</div>
+
+```mermaid
+flowchart TD
+    A["🌍 DATA SOURCES<br/>APIs • CSV • JSON • IoT"]
+    B["☁️ CLOUD INGESTION<br/>Amazon S3 • Azure Storage"]
+    C["⚙️ PROCESSING<br/>Python • AWS Lambda"]
+    D["🔄 TRANSFORMATION<br/>SQL • dbt • Spark"]
+    E["❄️ DATA WAREHOUSE<br/>Snowflake • Fabric"]
+    F["📊 ANALYTICS<br/>Power BI • SQL"]
+    G["🚀 BUSINESS INSIGHTS"]
+
+    A --> B --> C --> D --> E --> F --> G
+
+    H["⏱️ ORCHESTRATION<br/>Airflow • Step Functions"]
+    I["🛡️ DATA QUALITY<br/>Validation • Testing"]
+
+    H -.-> C
+    H -.-> D
+    I -.-> D
+    I -.-> E
+
+    style A fill:#082F49,stroke:#22D3EE,color:#fff
+    style B fill:#0C4A6E,stroke:#38BDF8,color:#fff
+    style C fill:#164E63,stroke:#22D3EE,color:#fff
+    style D fill:#164E63,stroke:#22D3EE,color:#fff
+    style E fill:#134E4A,stroke:#2DD4BF,color:#fff
+    style F fill:#14532D,stroke:#4ADE80,color:#fff
+    style G fill:#064E3B,stroke:#34D399,color:#fff
+```
+
+---
+
+## 🚀 PROJECT SHOWCASE
+
+<div align="center">
+
+### ENGINEERING IN ACTION
 
 </div>
 
@@ -162,141 +167,10 @@ flowchart TB
 <tr>
 <td width="50%" valign="top">
 
-<h3>☁️ AWS Serverless ETL</h3>
+### ☁️ AWS SERVERLESS ETL
 
 <a href="https://github.com/shariq-13/Serverless_ETL_pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shariq-13&repo=Serverless_ETL_pipeline&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=22D3EE" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shariq-13&repo=Serverless_ETL_pipeline&theme=tokyonight&hide_border=true&bg_color=080F1C&title_color=22D3EE" width="100%"/>
 </a>
 
-**Technologies**
-
-`AWS` `S3` `Lambda` `Python` `SNS` `Step Functions`
-
-- Serverless data processing.
-- Automated workflow orchestration.
-- Conditional execution.
-- Error handling and notifications.
-
-<a href="https://github.com/shariq-13/Serverless_ETL_pipeline">Explore Project →</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>❄️ Sparkify Data Warehouse</h3>
-
-<a href="https://github.com/shariq-13/Sparkify-data-warehousing">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shariq-13&repo=Sparkify-data-warehousing&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=22D3EE" width="100%" />
-</a>
-
-**Technologies**
-
-`Snowflake` `dbt` `SQL` `Data Modeling`
-
-- Staging and transformation models.
-- Fact and dimension tables.
-- dbt testing and documentation.
-- Analytical data warehouse.
-
-<a href="https://github.com/shariq-13/Sparkify-data-warehousing">Explore Project →</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🌫️ Smart City AQI Pipeline</h3>
-
-**Technologies**
-
-`Python` `Snowflake` `SQL` `IoT`
-
-- IoT sensor data ingestion.
-- Multi-city air quality readings.
-- Snowflake Bronze data layer.
-- Time-series data management.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🍔 Zomato AI Data Pipeline</h3>
-
-**Technologies**
-
-`Python` `Snowflake` `Gemini API`
-
-- Customer review extraction.
-- AI sentiment classification.
-- Data enrichment.
-- Snowflake result storage.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🏅 Tokyo Olympics Data Engineering</h3>
-
-**Technologies**
-
-`Azure` `Cloud Storage` `SQL`
-
-- Cloud data ingestion.
-- Dataset organization.
-- Data transformation.
-- Analytical preparation.
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🔥 Serverless Cloud Engineering</h3>
-
-**Focus**
-
-`AWS` `Terraform` `Python`
-
-- Infrastructure as Code.
-- Cloud resource management.
-- Event-driven architecture.
-- Automated data workflows.
-
-</td>
-</tr>
-</table>
-
----
-
-## ◈ CLOUD TECHNOLOGY SHOWCASE
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="65"/>
-
-### AWS
-
-<sub>Cloud Computing</sub>
-
-<sub>S3 • Lambda • SQS</sub>
-
-<sub>SNS • Step Functions</sub>
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://skillicons.dev/icons?i=azure&theme=dark" width="65"/>
-
-### Azure
-
-<sub>Cloud Data Platforms</sub>
-
-<sub>Azure Storage</sub>
-
-<sub>Cloud Architecture</sub>
-
-</td>
-<td align="center" width="33%">
-
-<img src="https://cdn
+`AWS` `Python` `Lambda` `S3` `SNS
